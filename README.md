@@ -1,5 +1,5 @@
-<img align="right" alt="me" width="200px" src="/images/noéified_ernie.png" />
 # `ernesti zdebski`
+<img align="right" alt="me" width="200px" src="/images/noéified_ernie.png" />
 
 i mainly program in js & py, have unsuccessfully attempted java & c++
 proud father of Rat bot and rat.js (Depicted below)
