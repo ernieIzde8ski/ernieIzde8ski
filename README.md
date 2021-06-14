@@ -1,8 +1,7 @@
 # `ernesti zdebski`
 <img align="right" alt="me" width="200px" src="/images/noéified_ernie.png" />
 
-i mainly program in js & py, have unsuccessfully attempted java & c++
-
+i mainly program in js & py, have unsuccessfully attempted java & c++  
 proud father of Rat bot and rat.js (Depicted below)
 
 <a href="https://github.com/ernieIzde8ski/ratbot"><img width="200" src="/images/rat_squared.jpeg"></a> <a href="https://github.com/ernieIzde8ski/rat.js"><img width="200" src="/images/rat_squared_sombrero.jpeg"></a>
