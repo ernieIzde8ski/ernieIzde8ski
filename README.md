@@ -1,17 +1,17 @@
 # `ernesti zdebski`
 <img align="right" alt="me" width="200px" src="/images/noéified_ernie.png" />
 
-i mainly program in js & py, have unsuccessfully attempted java & c++  
-proud father of Rat bot and rat.js (Depicted below)
+I mainly program in TypeScript & Python, have unsuccessfully attempted java & c++ but am learning Rust  
+proud father of Ratbot and rat.js (Depicted below)
 
 <a href="https://github.com/ernieIzde8ski/ratbot"><img width="200" src="/images/rat_squared.jpeg"></a> <a href="https://github.com/ernieIzde8ski/rat.js"><img width="200" src="/images/rat_squared_sombrero.jpeg"></a>
 
-(rat.js is the cooler sister)
+(ratbot is the cooler sister)
 
 ## Projects
 
 - [the same](https://github.com/ernieIzde8ski/ratbot) [discord bot](https://github.com/ernieIzde8ski/rat.js) [in multiple languages](https://github.com/ernieIzde8ski/petrosiandsbot) ([to varying degrees](https://github.com/ernieIzde8ski/ratbot.java) [of success](https://github.com/ernieIzde8ski/rat.cpp))
-- i have a private repo (you're not allowed to see it) but it has some useful stuff
+- I have a private repo (you're not allowed to see it) but it has some useful stuff
 
 ---
 
